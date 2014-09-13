@@ -4,7 +4,7 @@ Javascript natively works well with JSON, so the idea behind this module is to d
 
 This would allow building templates that are based purely on JSON and transforming JSON.
 
-[![NPM info](https://nodei.co/npm/jonx.png?downloads=true)](https://nodei.co/npm/jonx.png?downloads=true)
+[![NPM info](https://nodei.co/npm/jonx.png?downloads=true)](https://npmjs.org/package/jonx)
 
 [![Travis build status](https://api.travis-ci.org/Like-Falling-Leaves/jonx.png?branch=master)](
 https://travis-ci.org/Like-Falling-Leaves/jonx)
