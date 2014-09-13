@@ -1,0 +1,17 @@
+{
+  "name": "jonx",
+  "description": "Convert between JSON and HTML",
+  "keywords": ["html", "template", "json"],
+  "homepage": "https://github.com/like-falling-leaves/jonx",
+  "bugs": { "url": "https://github.com/like-falling-leaves/jonx/issues" },
+  "license": "MIT",
+  "author": {"name": "Like FallingLeaves", "email": "likefallingleaves@gmail.com"},
+  "main": "./index.js",
+  "maintainers": [{"name": "Like FallingLeaves", "email": "likefallingleaves@gmail.com"}],
+  "version": "0.0.1",
+  "repository": { "type": "git", "url": "git://github.com/like-falling-leaves/jonx.git" },
+  "readmeFilename": "README.md",
+  "dependencies": {"node-html-encoder": "0.0.2"},
+  "devDependencies": { "mocha": "1.*" },
+  "scripts": { "test": "mocha test/" }
+}
